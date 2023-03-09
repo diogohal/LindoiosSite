@@ -1,1 +1,1 @@
-web: gunicorn -b :$PORT lindois_site:app
+web: gunicorn lindois_site:app

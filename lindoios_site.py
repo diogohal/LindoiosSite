@@ -4,7 +4,7 @@ import os
 app = Flask(__name__)
 
 if __name__ == 'main':
-    port = int(os.getenv('PORT'), '5000')
+    port = int(os.getenv('PORT'), '3000')
     app.run(host='0.0.0.0', port=port)
 
 pictureFolder = os.path.join('static', 'images')
