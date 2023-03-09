@@ -1,1 +1,1 @@
-web: gunicorn lindois_site:app
+web: gunicorn app:app
