@@ -1,0 +1,1 @@
+FLASK_APP=lindois_site.py
