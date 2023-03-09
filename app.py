@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-# from meme_generator import meme_generator
+from meme_generator import meme_generator
 import os
 app = Flask(__name__)
 
