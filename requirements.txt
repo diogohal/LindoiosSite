@@ -30,7 +30,6 @@ tornado==6.2
 traitlets==5.9.0
 typing_extensions==4.3.0
 ufoLib2==0.13.1
-unattended-upgrades==0.1
 unicodedata2==14.0.0
 uri-template==1.2.0
 urllib3==1.26.5
