@@ -1,1 +1,1 @@
-FLASK_APP=lindois_site.py
+FLASK_APP=app.py
